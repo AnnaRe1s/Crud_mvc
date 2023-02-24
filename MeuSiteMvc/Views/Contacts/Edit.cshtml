@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Editar Cadastro";
+}
+
+<div>
+    <h1>Editar Cadastro</h1>
+
+    <form>
+        <div class="form-group">
+            <label for="user_name">Name</label>
+            <input type="text" class="form-control" id="user_name"a ria-describedby="name" placeholder="Nome">
+
+        </div>
+        <div class="form-group">
+            <label for="exampleInputEmail1">Email</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="seunome@email.com">
+
+        </div>
+        <div class="form-group">
+            <label for="cellphone">Telefone</label>
+            <input type="tel" class="form-control" id="cellphone" a ria-describedby="telefone" placeholder="Celular">
+
+        </div>
+
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+        <a type="submit" class="btn btn-outline-dark" asp-controller="Contacts" asp-action="Index">Voltar</a>
+
+    </form>
+</div>

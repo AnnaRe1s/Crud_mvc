@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewData["Title"] = "Lista de contatos";
+}
+
+<div>
+
+    <div>
+        <a class="btn btn-outline-success" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="Register">Add new contact</a>
+    </div>
+
+    <h1 class="display-4">Lista de contatos</h1>
+
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Name</th>
+          <th scope="col">Email</th>
+          <th scope="col">Celphone</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th scope="row">1</th>
+          <td>Mark</td>
+          <td>mark@email.com</td>
+          <td>(11)99999-9999</td>
+          <td>
+              <div>
+                  <a class="btn btn-info" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="Edit">Edit</a>
+                  <a class="btn btn-danger" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="DeletConfirmation">Delete</a>
+              </div>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row">2</th>
+          <td>Jacob</td>
+          <td>jacob@email.com</td>
+          <td>(11)99999-9998</td>
+          <td>
+              <div>
+                  <a class="btn btn-info" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="Edit">Edit</a>
+                  <a class="btn btn-danger" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="DeletConfirmation">Delete</a>
+              </div>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row">3</th>
+          <td>Larry</td>
+          <td>larry@email.com</td>
+          <td>(11)99999-9997</td>
+          <td>
+              <div>
+                  <a class="btn btn-info" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="Edit">Edit</a>
+                  <a class="btn btn-danger" role="button" aria-pressed="true" asp-controller="Contacts" asp-action="DeletConfirmation">Delete</a>
+              </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    
+</div>
