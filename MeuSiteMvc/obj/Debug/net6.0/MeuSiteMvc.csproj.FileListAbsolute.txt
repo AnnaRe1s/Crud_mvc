@@ -85,3 +85,10 @@ C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debu
 C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\obj\Debug\net6.0\MeuSiteMvc.csproj.CopyComplete
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\obj\Debug\net6.0\MeuSiteMvc.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Anna Reis\Documents\projects\asp_net_mvc\MeuSiteMvc\MeuSiteMvc\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
